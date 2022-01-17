@@ -97,7 +97,7 @@ function verificarPassword(usuario, password) {
   //  return true;
   //}else{
   //  return false;
-  //}
+  //}  
   return usuario['password'] === password;
 }
 
